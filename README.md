@@ -17,7 +17,7 @@ A simple and interactive time-based web application built using **HTML**, **CSS*
 ## 📸 Demo
 
 Check out the live demo:  
-👉 [Live Time App](https://your-username.github.io/time-project/)
+👉 [Live Time App]( https://santhoshyadavally.github.io/Time-Project/)
 
 
 
