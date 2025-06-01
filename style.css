@@ -1,0 +1,17 @@
+
+#a{
+    width: 35%;
+    height: 200px;
+    border: 1px solid black;
+    border-radius: 52%;
+    margin-top: 100px;
+}
+#b1{
+    color:aqua;
+}
+#b2{
+    color:blue
+}
+#b3{
+    color:green
+}
